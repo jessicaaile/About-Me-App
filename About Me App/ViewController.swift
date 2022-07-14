@@ -14,6 +14,11 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    @IBOutlet weak var myName: UILabel!
+    
+    @IBAction func myLabel(_ sender: Any) {
+    }
+    
 }
 
+//hiiiii
